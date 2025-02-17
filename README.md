@@ -1,3 +1,7 @@
-# -htson.github.io
+# My Resume
 
-ABC
+### Summary
+
+My resume I made using plain HTML5 & CSS.
+https://rjbasitali.github.io/
+
